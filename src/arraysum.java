@@ -7,5 +7,8 @@ public class arraysum {
 			sum = sum+a[i];
 		}
 		System.out.println("Sum: "+sum);
+		System.out.println("Sum: "+sum);
+
+		
 	}
 }
